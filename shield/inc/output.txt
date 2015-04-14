@@ -1,0 +1,9 @@
+for17 - gemca rewrite
+for24 - main output (dokhuya)
+for25 - deex diag
+for26 - cross-sect., range-dep.
+for27 - constants???
+for29 - binary output 
+
+isotout - isotopes absorption
+nmtc_yield - isotopes production (per projectile!)
